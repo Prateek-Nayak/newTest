@@ -24,7 +24,6 @@ public class lab7  // main class that includes everything, including the main() 
             else
             {
                 currentTime += remainingTime;
-
                 remainingTime = 0;
                 isFinished = true;
                 completionTime = currentTime;
